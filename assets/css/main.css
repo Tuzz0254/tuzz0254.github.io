@@ -3761,6 +3761,7 @@ input, select, textarea {
 		margin: 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
+		
 		z-index: 2;
 	}
 
